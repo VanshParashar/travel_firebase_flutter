@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>38160777345-bqjebvthfc3r068rk0ui17mkkr2o6eom.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.38160777345-bqjebvthfc3r068rk0ui17mkkr2o6eom</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDSz274_4v1wmD2xlwTc-Chm_h3_GyMAVQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>38160777345</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.travelFirebaseFlutter.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>travel-49e63</string>
+	<key>STORAGE_BUCKET</key>
+	<string>travel-49e63.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:38160777345:ios:8f97fe10ec2c32c6af4d80</string>
+</dict>
+</plist>

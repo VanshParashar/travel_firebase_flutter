@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "730271045267",
+    "project_id": "chardham-tour-a08ac",
+    "storage_bucket": "chardham-tour-a08ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730271045267:android:399e60710f9d50e7b0df66",
+        "android_client_info": {
+          "package_name": "com.example.travel_firebase_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730271045267-hhcrq3l5ehig02mfh3ler521k1074m0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWrY45_0x8CTsgf3M8BW9ZrhBtbqKhGD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730271045267-6dqqci0ghmg3id3qlj0m8vnrlgkosvph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730271045267-1ji267qp102p96kgcjgtqbjlh4uh0qe7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travelFirebaseFlutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730271045267:android:4f58465a59516ce7b0df66",
+        "android_client_info": {
+          "package_name": "in.chardham.chardhamtour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730271045267-39j78jo7kflo133iohe7q104icaq25if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.chardham.chardhamtour",
+            "certificate_hash": "81e351af7aff74ae2b9ba4da14c8a01394651494"
+          }
+        },
+        {
+          "client_id": "730271045267-4kh64ntog02qsqvg22eh6en780pc3jvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.chardham.chardhamtour",
+            "certificate_hash": "93e4258f5313d1778d45e7b164de519830d1e231"
+          }
+        },
+        {
+          "client_id": "730271045267-eoggmkr8f36d93v3okp8li6qvoe3pucl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.chardham.chardhamtour",
+            "certificate_hash": "82a70f190c351c08b02916b093da1e003f4b0bc2"
+          }
+        },
+        {
+          "client_id": "730271045267-j9ob83m9efqtnj23vsit0863d2n5jnk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.chardham.chardhamtour",
+            "certificate_hash": "ffe9c8bc5a916da486993a2997d14802317f69b4"
+          }
+        },
+        {
+          "client_id": "730271045267-hhcrq3l5ehig02mfh3ler521k1074m0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWrY45_0x8CTsgf3M8BW9ZrhBtbqKhGD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730271045267-6dqqci0ghmg3id3qlj0m8vnrlgkosvph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730271045267-1ji267qp102p96kgcjgtqbjlh4uh0qe7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travelFirebaseFlutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
