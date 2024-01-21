@@ -30,7 +30,7 @@ class _LoginPageState extends State<LoginPage> {
         email: _emailController.text.trim(),
         password: _passwordController.text.trim(),
       );
-      // Navigator.push(context, MaterialPageRoute(builder: (_)=>ProfilePage()));
+      Navigator.push(context, MaterialPageRoute(builder: (_)=>ProfilePage()));
     } on FirebaseAuthException catch (error) {
       if (error.code == 'email-already-in-use') {}
       ScaffoldMessenger.of(context).clearSnackBars();
